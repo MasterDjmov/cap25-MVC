@@ -123,3 +123,12 @@ html {
     min-height: 400px;
     }
 }
+.yellow{
+    color:yellow;
+}
+.purple{
+    color:#551a8b;
+}
+a{
+    text-decoration: none;
+}
